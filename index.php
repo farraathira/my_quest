@@ -1,7 +1,7 @@
 <?php
 $test = 'aku nak makan';
 if (aku lapar) {
-  aku gi masak
+  aku gi masak;
 }
 
 
